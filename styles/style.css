@@ -1,0 +1,65 @@
+.banner{
+    background-color: black;
+}
+
+.line-1{
+    text-decoration-color: orangered;
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    font-style: italic;
+    color: orangered;
+
+}
+.b{
+    border-radius: 20px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+
+}
+.c{
+    background-color: rgb(218, 94, 49);
+    border-radius: 5px;
+}
+.aa{
+    color: aliceblue;
+    
+}
+.dd{
+    background-color: orangered;
+    border-radius: 10px;
+}
+.ee{
+    border-radius: 10px;
+    background-color: rgb(187, 200, 211);
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 30px;
+}
+.img{
+    height: 100%;
+    
+}
+.ff{
+    justify-content: center;
+    text-align: center;
+}
+.habit{
+    color:white;
+    text-align: center;
+}
+.color{
+    color: grey;
+}
+.part-b{
+    display: flex;
+    justify-content: center;
+}
+.rd{
+    border-radius: 50rem;
+    padding: 10px;
+}
